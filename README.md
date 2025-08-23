@@ -62,14 +62,14 @@ docker run -p 5000:5000 diabetes-prediction-app
 
 ### Web Interface
 
-Access the prediction form at: `http://localhost:5000`
+Access the prediction form at: https://diabetes-prediction-app-abkb.onrender.com/](https://diabetes-prediction-app-abkb.onrender.com
 
 ### API Endpoints
 
 #### Predict Diabetes Risk
 
 ```bash
-POST /api/predict
+POST https://diabetes-prediction-app-abkb.onrender.com/api/predict
 Content-Type: application/json
 
 {
@@ -96,7 +96,7 @@ Content-Type: application/json
 #### Health Check
 
 ```bash
-GET /health
+GET https://diabetes-prediction-app-abkb.onrender.com/health
 ```
 
 **Response:**
