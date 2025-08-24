@@ -56,7 +56,7 @@ class DiabetesModel:
                 confidence = "Thấp"
 
             result = {
-                "predicition": bool(prediction),
+                "prediction": bool(prediction),
                 "probability": float(max_prob),
                 "confidence": confidence,
                 "message": (
