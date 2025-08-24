@@ -62,7 +62,7 @@ docker run -p 5000:5000 diabetes-prediction-app
 
 ### Web Interface
 
-Access the prediction form at: https://diabetes-prediction-app-abkb.onrender.com/](https://diabetes-prediction-app-abkb.onrender.com
+Access the prediction form at: https://diabetes-prediction-app-abkb.onrender.com
 
 ### API Endpoints
 
